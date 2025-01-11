@@ -1,0 +1,13 @@
+{
+  "name": "Rock_Medium_3",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9deb4693-4ae8-4c1b-85d7-8419e18c0bff",
+  "fileKey": "Rock_Medium_3.obj",
+  "fileFormat": "obj",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\Stylized Nature MegaKit[Standard]\\OBJ\\Rock_Medium_3.obj",
+  "materialLib": "Rock_Medium_3.mtl",
+  "mesh": {
+    "collisions": {}
+  }
+}

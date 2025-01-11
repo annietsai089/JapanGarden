@@ -1,0 +1,81 @@
+{
+  "name": "Lights",
+  "type": "vfx",
+  "vfx": {
+    "emitters": [
+      {
+        "id": "7ph2xiryh",
+        "name": "Emitter",
+        "rate": {
+          "type": "continuous",
+          "count": 1,
+          "time": 0.9,
+          "delay": 0
+        },
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "initializers": [
+          {
+            "id": "1ev5o9vcb",
+            "type": "lifetime",
+            "params": {
+              "duration": {
+                "type": 1,
+                "value": 1
+              }
+            }
+          },
+          {
+            "id": "4m30ivc9f",
+            "type": "scale",
+            "params": {
+              "scale": {
+                "value": 2.85,
+                "type": 1
+              }
+            }
+          }
+        ],
+        "behaviours": [
+          {
+            "id": "fuqoop13h",
+            "type": "scale",
+            "params": {
+              "a": {
+                "value": 1.05,
+                "type": 1
+              },
+              "b": {
+                "value": 1.05,
+                "type": 1
+              },
+              "ease": {
+                "value": "Linear",
+                "type": 12
+              }
+            }
+          }
+        ],
+        "children": [],
+        "output": {
+          "type": "sprite",
+          "texture": null,
+          "color": "#f7eec5",
+          "blendingMode": "normal",
+          "space": "world",
+          "softness": 0,
+          "shape": "box"
+        }
+      }
+    ]
+  },
+  "id": "9dec660b-8b8c-41c1-aa75-9ff1e63f7b07"
+}

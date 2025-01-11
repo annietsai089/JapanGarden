@@ -1,0 +1,19 @@
+{
+  "name": "grass",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9de19034-34fa-443a-b385-53d8e77f6a05",
+  "fileKey": "grass.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\grass.glb",
+  "mesh": {
+    "collisions": {}
+  },
+  "materialAssignments": [
+    {
+      "color": "#ffffff",
+      "materialId": "9de1946d-5632-4a38-83b5-f460bcac7bde",
+      "name": "default"
+    }
+  ]
+}

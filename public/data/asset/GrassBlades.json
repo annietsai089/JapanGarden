@@ -1,0 +1,29 @@
+{
+  "name": "GrassBlades",
+  "type": "material",
+  "material": {
+    "type": "shader",
+    "params": {
+      "metalness": 0,
+      "opacity": 1
+    },
+    "side": 2,
+    "shaderParams": {
+      "color": {
+        "type": 10,
+        "value": "#2deb66"
+      },
+      "colorBottom": {
+        "type": 10,
+        "value": "#238b23"
+      },
+      "alphaMap": {
+        "type": 2,
+        "value": "9de19097-f260-4df5-b0c6-35c83fc50da5"
+      }
+    },
+    "shader": "GrassShader",
+    "transparent": false
+  },
+  "id": "9de1946d-5632-4a38-83b5-f460bcac7bde"
+}

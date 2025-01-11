@@ -1,0 +1,13 @@
+{
+  "name": "Koi_Tri",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01,
+    "collisions": {}
+  },
+  "id": "9deb6066-b3d8-4145-9f5f-4bc4238d1eac",
+  "fileKey": "Koi_Tri.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\koi-fish\\source\\Koi_Tri.fbx"
+}

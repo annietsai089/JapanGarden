@@ -1,0 +1,12 @@
+{
+  "name": "sakura_tree_01_-_low_poly_model",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9dec3a8f-277a-4721-90d0-93a81b57650f",
+  "fileKey": "sakura_tree_01_-_low_poly_model.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\sakura_tree_01_-_low_poly_model.glb",
+  "mesh": {
+    "collisions": {}
+  }
+}

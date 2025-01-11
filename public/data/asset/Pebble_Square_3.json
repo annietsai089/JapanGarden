@@ -1,0 +1,10 @@
+{
+  "name": "Pebble_Square_3",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9deb46e6-92ca-43aa-8e0d-e8828604e3fe",
+  "fileKey": "Pebble_Square_3.obj",
+  "fileFormat": "obj",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\Stylized Nature MegaKit[Standard]\\OBJ\\Pebble_Square_3.obj",
+  "materialLib": "Pebble_Square_3.mtl"
+}

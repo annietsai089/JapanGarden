@@ -1,0 +1,12 @@
+{
+  "name": "japanese_style_umbrella_updated",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9ded4831-2ba2-4aa8-a8b1-ba7a6330eb1a",
+  "fileKey": "japanese_style_umbrella_updated.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\japanese_style_umbrella_updated.glb",
+  "mesh": {
+    "collisions": {}
+  }
+}

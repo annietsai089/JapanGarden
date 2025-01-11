@@ -1,0 +1,13 @@
+{
+  "name": "Japanese_Building",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01,
+    "collisions": {}
+  },
+  "id": "9de96b8a-6414-457c-bf1b-1acf2809615d",
+  "fileKey": "Japanese_Building.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\japanese-low-poly-building\\source\\Japanese_Building.fbx"
+}

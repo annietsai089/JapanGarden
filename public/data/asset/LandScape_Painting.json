@@ -1,0 +1,58 @@
+{
+  "name": "LandScape Painting",
+  "type": "material",
+  "material": {
+    "type": "landscape-composite",
+    "params": {
+      "metalness": 0,
+      "opacity": 1
+    },
+    "side": 2,
+    "shaderParams": {
+      "layers": {
+        "type": 21,
+        "element": 16,
+        "value": [
+          "9de9221e-4b24-40d8-b46f-2ba6b86e1e0b",
+          "9ded2d80-aa94-4a62-94c7-84fb0b8c6835",
+          "9ded4019-0872-4f12-94a6-23e6ccb079fd",
+          "9ded4227-df94-48f4-afe0-bb9488dafc5b",
+          "9de1946d-5632-4a38-83b5-f460bcac7bde"
+        ]
+      },
+      "uvScale": {
+        "type": 1,
+        "value": 1
+      },
+      "transition": {
+        "type": 1,
+        "value": 1
+      },
+      "noiseScale": {
+        "type": 1,
+        "value": 1
+      },
+      "noiseAmount": {
+        "type": 1,
+        "value": 0.2
+      },
+      "softness": {
+        "type": 1,
+        "value": 0.3
+      },
+      "enableSlope": {
+        "type": 4,
+        "value": false
+      },
+      "slopeMaterial": {
+        "type": 16
+      },
+      "slopeAngle": {
+        "type": 1,
+        "value": 35
+      }
+    },
+    "transparent": false
+  },
+  "id": "9ded3cb8-9882-41d3-b4d4-025d77909158"
+}

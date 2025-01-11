@@ -1,0 +1,12 @@
+{
+  "name": "japanese_black_pine",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9dec5c8f-c0b4-4312-ad47-e63fb98d891b",
+  "fileKey": "japanese_black_pine.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\japanese_black_pine.glb",
+  "mesh": {
+    "collisions": {}
+  }
+}

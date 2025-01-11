@@ -1,0 +1,10 @@
+{
+  "name": "Rock_Medium_2",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9deb4684-e138-43bc-b740-11f675231e66",
+  "fileKey": "Rock_Medium_2.obj",
+  "fileFormat": "obj",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\Stylized Nature MegaKit[Standard]\\OBJ\\Rock_Medium_2.obj",
+  "materialLib": "Rock_Medium_2.mtl"
+}

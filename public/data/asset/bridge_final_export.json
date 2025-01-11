@@ -1,0 +1,13 @@
+{
+  "name": "bridge final export",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01,
+    "collisions": {}
+  },
+  "id": "9de98862-029a-4cc3-a435-751ceb1a7d87",
+  "fileKey": "bridge final export.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\bridge-final-export\\source\\bridge final export.fbx"
+}

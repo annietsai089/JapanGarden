@@ -1,0 +1,13 @@
+{
+  "name": "Bush",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01,
+    "collisions": {}
+  },
+  "id": "9ded0304-e9a6-4d25-beb3-9ff4043537eb",
+  "fileKey": "600Verts-bush-upl-repacked-medText.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\low-poly-shrub-medium-texture\\source\\600Verts-bush-upl-repacked-medText\\600Verts-bush-upl-repacked-medText.fbx"
+}

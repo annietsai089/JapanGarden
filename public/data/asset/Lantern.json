@@ -1,0 +1,13 @@
+{
+  "name": "Lantern",
+  "type": "mesh",
+  "collisionDetection": true,
+  "mesh": {
+    "rescale": 0.01,
+    "collisions": {}
+  },
+  "id": "9deb8879-5bdc-4b02-913f-b7a258340f26",
+  "fileKey": "Lantern.fbx",
+  "fileFormat": "fbx",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\free-low-poly-japanese-stone-lantern-ishi-doro\\Lantern.fbx"
+}

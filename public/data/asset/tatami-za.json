@@ -1,0 +1,12 @@
+{
+  "name": "tatami-za",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9ded45b2-1a58-4f4d-b64e-9e273b1ca71a",
+  "fileKey": "tatami-za.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\tatami-za.glb",
+  "mesh": {
+    "collisions": {}
+  }
+}
